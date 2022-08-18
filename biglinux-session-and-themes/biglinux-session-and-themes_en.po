@@ -124,7 +124,7 @@ msgid "Ativar"
 msgstr ""
 
 msgid "Desativar"
-msgstr "Deactivate"
+msgstr ""
 
 msgid "Configurações do Brave"
 msgstr "Brave configurations"
