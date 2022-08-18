@@ -84,7 +84,7 @@ msgid "Tema dos aplicativos"
 msgstr "Application theme"
 
 msgid "Fechar"
-msgstr "Close"
+msgstr ""
 
 msgid "Bordas arredondadas."
 msgstr "Rounded edges."
