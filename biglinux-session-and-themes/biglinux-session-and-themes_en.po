@@ -69,7 +69,7 @@ msgid "Desktop"
 msgstr ""
 
 msgid "Ajustes"
-msgstr "Settings"
+msgstr ""
 
 msgid "Desempenho do desktop"
 msgstr "Desktop performance"
