@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr "Themes, Desktop and Settings"
+msgstr ""
 
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
@@ -63,7 +63,7 @@ msgid "Concluído!"
 msgstr ""
 
 msgid "Temas"
-msgstr "Themes"
+msgstr ""
 
 msgid "Desktop"
 msgstr "Desktop"

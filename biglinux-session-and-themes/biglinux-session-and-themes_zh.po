@@ -23,7 +23,7 @@ msgstr "主题、桌面和设置"
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
-msgstr "配置改变了，如果你正在使用浏览器，请重新启动它以应用新的配置。"
+msgstr ""
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
 msgstr "如果你使用的是浏览器，请关闭它，然后再打开它!"
