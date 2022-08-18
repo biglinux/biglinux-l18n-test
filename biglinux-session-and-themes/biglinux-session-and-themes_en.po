@@ -118,7 +118,7 @@ msgstr ""
 "Excessive use causes slowdowns. Choose the desired option:"
 
 msgid "Automático"
-msgstr "Automatic"
+msgstr ""
 
 msgid "Ativar"
 msgstr "Activate"
