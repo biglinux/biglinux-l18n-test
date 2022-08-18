@@ -17,6 +17,5 @@ msgid "We connect developers and translators around the globe "
 msgstr ""
 ""
 
-msgid "Welcome back, %1$s! Your last visit was on %2$s"
-msgstr ""
+
 
