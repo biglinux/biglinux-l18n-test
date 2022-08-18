@@ -5,8 +5,8 @@ name: Create translation pull request
 # events but only for the main branch
 on:
   workflow_dispatch:
-  push:
-    branches: [ main ]
+  #push:
+    #branches: [ main ]
     #paths:
     #- '**.ini'       # INI-based, key value pair file format
     #- '**.po'        # Portable Object file format
