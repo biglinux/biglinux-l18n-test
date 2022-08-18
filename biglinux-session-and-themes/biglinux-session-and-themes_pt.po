@@ -20,6 +20,9 @@ msgstr ""
 msgid "Temas, Desktop e Ajustes"
 msgstr "Temas, Desktop e Ajustes"
 
+msgid "Testado mesmo"
+msgstr "Testado mesmo"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
