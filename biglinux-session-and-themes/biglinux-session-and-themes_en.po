@@ -78,7 +78,7 @@ msgid "Aceleração do navegador"
 msgstr "Browser acceleration"
 
 msgid "Usabilidade"
-msgstr "Usability"
+msgstr ""
 
 msgid "Tema dos aplicativos"
 msgstr "Application theme"
