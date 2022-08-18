@@ -66,7 +66,7 @@ msgid "Temas"
 msgstr ""
 
 msgid "Desktop"
-msgstr "Desktop"
+msgstr ""
 
 msgid "Ajustes"
 msgstr "Settings"
