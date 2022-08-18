@@ -9,14 +9,3 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Let’s make the web multilingual."
-msgstr ""
-
-msgid "We connect developers and translators around the globe "
-"on Lingohub for a fantastic localization experience."
-msgstr ""
-""
-
-msgid "Welcome back, %1$s! Your last visit was on %2$s"
-msgstr ""
-
