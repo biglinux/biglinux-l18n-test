@@ -10,4 +10,4 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Let’s make the web multilingual."
-msgstr ""
+msgstr "Let’s make the web multilingual."
