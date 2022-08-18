@@ -121,7 +121,7 @@ msgid "Automático"
 msgstr ""
 
 msgid "Ativar"
-msgstr "Activate"
+msgstr ""
 
 msgid "Desativar"
 msgstr "Deactivate"
